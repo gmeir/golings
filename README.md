@@ -1,3 +1,5 @@
+Forked from [golings](https://github.com/mauricioabreu/golings) with my solutions
+
 # golings
 
 [![build and test](https://github.com/mauricioabreu/golings/actions/workflows/test.yml/badge.svg)](https://github.com/mauricioabreu/golings/actions/workflows/test.yml)
